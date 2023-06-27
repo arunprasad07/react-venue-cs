@@ -1,4 +1,5 @@
-function App() {
+import './resources/styles.css'
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
